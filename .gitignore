@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# dev_dependencies
+database.json
+
 # testing
 /coverage
 
